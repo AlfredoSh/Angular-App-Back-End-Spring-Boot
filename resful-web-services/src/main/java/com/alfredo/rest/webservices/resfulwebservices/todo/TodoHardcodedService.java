@@ -13,7 +13,6 @@ public class TodoHardcodedService {
 	
 	private static List<Todo> todos = new ArrayList<>();
 	private static long idCounter = 0;
-	private  long id =4;
 	static {
 		
 	//	todos.add(new Todo(++idCounter, "Alfredo23","Learn to Dance 2", new Date(), false ));

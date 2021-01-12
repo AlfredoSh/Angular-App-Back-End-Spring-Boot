@@ -20,7 +20,7 @@ public class TodoHardcodedService {
 		todos.add(new Todo(++idCounter, "Alfredo","Learn about Angular", new Date(), false ));
 		todos.add(new Todo(++idCounter, "Alfredo","Learn about Angular", new Date(), true ));
 		todos.add(new Todo(++idCounter, "Mr Jaeck","Learn about Angular", new Date(), true ));
-		//todos.add(new Todo(++idCounter, "Alfredo","Learn about Angular", new Date(), false ));
+		// todos.add(new Todo(++idCounter, "Alfredo","Learn about Angular", new Date(), false ));
 		
 	}
 	
